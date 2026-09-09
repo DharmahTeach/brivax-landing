@@ -1,0 +1,4 @@
+Contact: mailto:hello@brivax.ru
+Preferred-Languages: ru, en
+Canonical: https://brivax.ru/.well-known/security.txt
+Expires: 2027-09-09T22:20:12.395Z
