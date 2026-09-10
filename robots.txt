@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://brivax.ru/sitemap.xml
-Host: https://brivax.ru
+Sitemap: https://brivax.dontseekme.ru/sitemap.xml
+Host: https://brivax.dontseekme.ru
