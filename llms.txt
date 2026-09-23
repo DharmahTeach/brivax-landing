@@ -1,28 +1,28 @@
 # Brivax
 > Digital Engineering: Telegram-боты, Mini Apps, лендинги, сайты и ИИ-решения для бизнеса.
 
-- Сайт: https://brivax.dontseekme.ru/
+- Сайт: https://brivax.ru/
 - Telegram: https://t.me/brivax_Bot
 - Почта: hello@brivax.ru
 
 Цены договорные. Типовые сроки: лендинг от 3 дней, бот от 5 дней, сайт от 2 недель, ИИ от 1 недели.
 
 ## Услуги
-- [Telegram-боты и Mini Apps — Brivax](https://brivax.dontseekme.ru/telegram-bots/)
-- [Лендинги — Brivax](https://brivax.dontseekme.ru/landing-pages/)
-- [Сайты и веб-приложения — Brivax](https://brivax.dontseekme.ru/websites/)
-- [ИИ-решения для бизнеса — Brivax](https://brivax.dontseekme.ru/ai-solutions/)
+- [Telegram-боты и Mini Apps — Brivax](https://brivax.ru/telegram-bots/)
+- [Лендинги — Brivax](https://brivax.ru/landing-pages/)
+- [Сайты и веб-приложения — Brivax](https://brivax.ru/websites/)
+- [ИИ-решения для бизнеса — Brivax](https://brivax.ru/ai-solutions/)
 
 ## Кейсы
-- [BodyCraft AI — кейс Brivax](https://brivax.dontseekme.ru/work/bodycraft-ai/)
-- [Fitness AI — кейс Brivax](https://brivax.dontseekme.ru/work/fitness-ai/)
-- [Body Metrics — кейс Brivax](https://brivax.dontseekme.ru/work/body-metrics/)
-- [АйШпора — кейс Brivax](https://brivax.dontseekme.ru/work/aishpora/)
-- [Voice Changer — кейс Brivax](https://brivax.dontseekme.ru/work/voice-changer/)
-- [FitnessAI — сообщество — кейс Brivax](https://brivax.dontseekme.ru/work/fitnessai-channel/)
-- [BodyCraft AI — новости — кейс Brivax](https://brivax.dontseekme.ru/work/bodycraft-channel/)
+- [BodyCraft AI — кейс Brivax](https://brivax.ru/work/bodycraft-ai/)
+- [Fitness AI — кейс Brivax](https://brivax.ru/work/fitness-ai/)
+- [Body Metrics — кейс Brivax](https://brivax.ru/work/body-metrics/)
+- [АйШпора — кейс Brivax](https://brivax.ru/work/aishpora/)
+- [Voice Changer — кейс Brivax](https://brivax.ru/work/voice-changer/)
+- [FitnessAI — сообщество — кейс Brivax](https://brivax.ru/work/fitnessai-channel/)
+- [BodyCraft AI — новости — кейс Brivax](https://brivax.ru/work/bodycraft-channel/)
 
 ## Документы
-- [Конфиденциальность](https://brivax.dontseekme.ru/privacy/)
-- [Cookies](https://brivax.dontseekme.ru/cookies/)
-- [Условия](https://brivax.dontseekme.ru/terms/)
+- [Конфиденциальность](https://brivax.ru/privacy/)
+- [Cookies](https://brivax.ru/cookies/)
+- [Условия](https://brivax.ru/terms/)
