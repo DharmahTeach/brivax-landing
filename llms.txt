@@ -14,6 +14,7 @@
 - [ИИ-решения для бизнеса — Brivax](https://brivax.ru/ai-solutions/)
 
 ## Кейсы
+- [OneToken — кейс Brivax](https://brivax.ru/work/onetoken/)
 - [BodyCraft AI — кейс Brivax](https://brivax.ru/work/bodycraft-ai/)
 - [Fitness AI — кейс Brivax](https://brivax.ru/work/fitness-ai/)
 - [Body Metrics — кейс Brivax](https://brivax.ru/work/body-metrics/)
